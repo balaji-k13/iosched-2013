@@ -11,3 +11,11 @@ Added apk at root folder
   <img src="http://i.imgur.com/2QK4qoQ.png">
 </a>
 
+Requires below libraries
+
+* google-play-services_lib v18 and above
+
+* android-support-v7-appcompat 
+
+
+FYI : Manually copied the required sources to eclipse compatible structure , didn't do any code changes , just added required jars
