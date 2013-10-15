@@ -17,3 +17,6 @@ Requires below libraries
 
 
 FYI : Manually copied the required sources to eclipse compatible structure , didn't do any code changes , just added required jars
+
+
+This is the last commit - > https://code.google.com/p/iosched/source/detail?r=4471ef4e0228617b14201e74fa359470e83bcf6f , when i have checked out the code to prepare eclipse model project.
